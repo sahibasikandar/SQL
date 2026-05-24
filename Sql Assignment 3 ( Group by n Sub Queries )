@@ -1,5 +1,5 @@
 -- SQL Server — Class 3 Assignment
--- BikeStores Sample Database
+-- Group by n Sub Queries
 
 -- Q1: Count how many products each brand has in the catalog.
 -- Show brand name and product count.
